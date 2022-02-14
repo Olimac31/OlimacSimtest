@@ -1,2 +1,2 @@
 # OlimacSimtest
-Testing repository
+Testing repository where I upload my game
